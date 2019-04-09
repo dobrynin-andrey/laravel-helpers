@@ -1,4 +1,4 @@
-# Laravel Helpers 
+# Laravel Helpers (Fork for Lumen)
 
 This plugin provide set of helpers functions, services and traits. 
 

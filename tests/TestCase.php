@@ -2,7 +2,7 @@
 
 namespace RonasIT\Support\Tests;
 
-use Illuminate\Foundation\Testing\TestCase as BaseTest;
+use Laravel\Lumen\Testing\TestCase as BaseTest;
 use RonasIT\Support\Traits\FixturesTrait;
 
 class TestCase extends BaseTest
